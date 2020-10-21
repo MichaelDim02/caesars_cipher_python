@@ -1,4 +1,4 @@
-# caesars_cipher_python
+# CAESAR'S CIPHER IN PYTHON
 A Caesar's Cipher implementation in Python
 
 The code is as minimalistic as it gets and well optimized.
