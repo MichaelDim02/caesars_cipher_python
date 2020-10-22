@@ -3,7 +3,8 @@ A Caesar's Cipher implementation in Python including a bruteforcing tool for cra
 
 The code is as minimalistic as it gets and well optimized.
 
-Usage example: python cen.py 10 'This is text to be encrypted'
+Usage example: python cen.py 10 'This is text to be encrypted'.
+
 Make sure you include the apostrophes.
 # WARNING!
 Caesar's cipher is completely insecure and broken. Do not use it in any scenario in which actual security is required.
